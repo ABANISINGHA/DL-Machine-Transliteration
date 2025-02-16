@@ -259,6 +259,8 @@ drop_prob=wandb.config.dropout,
 bidirectional=wandb.config.bidirectional)
 
 ```
-change these upto your choice of hyperparameter configuration.
+change these upto your choice of hyperparameter configuration. 
+
+Wandb report : [Link](https://drive.google.com/file/d/1itJ6mbFrJutmfYwU_EjiQ89LiM_uRzD5/view?usp=sharing)
 
 
